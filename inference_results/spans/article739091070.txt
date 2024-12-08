@@ -1,0 +1,13 @@
+Name_Calling,Labeling	1138	1146
+Loaded_Language	68	81
+Loaded_Language	1287	1307
+Causal_Oversimplification	390	493
+Loaded_Language	689	708
+Name_Calling,Labeling	371	390
+Name_Calling,Labeling	615	631
+Repetition	88	93
+Causal_Oversimplification	631	740
+Repetition	69	81
+Loaded_Language	1138	1146
+Appeal_to_fear-prejudice	286	328
+Name_Calling,Labeling	170	227

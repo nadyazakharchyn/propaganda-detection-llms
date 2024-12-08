@@ -1,0 +1,5 @@
+Exaggeration,Minimisation	2490	2649
+Loaded_Language	3369	3402
+Loaded_Language	794	818
+Loaded_Language	1342	1357
+Exaggeration,Minimisation	3685	3756

@@ -1,0 +1,16 @@
+Loaded_Language: "threatened," "sordid tale," "silenced," "harsh position," "serious threats," "corruption," "bribery," "extortion," "money laundering," "kickbacks," "criminal case"
+Name_Calling,Labeling: "the mainstream media," "the Obama administration," "the Clintons"
+Repetition: "threatened both your reputation and liberty," "threatened his silence," "the Obama Justice Department threatened him"
+Exaggeration,Minimisation: "the scandal surrounding Russian efforts," "the government’s ability to crack a multimillion dollar racketeering scheme"
+Appeal_to_fear-prejudice: "the Obama administration threatened him with loss of freedom," "they would bring a criminal case against him"
+Flag-Waving: "the approval of the deal by the State Department," "giving Russia ownership of 20% of U.S. uranium assets"
+Causal_Oversimplification: "the Clinton Foundation directly to the scandal," "the same part of my client that made him go into the FBI in the first place"
+Appeal_to_Authority: "Toensing, a former Reagan Justice Department official"
+Doubt: "Is he ready to be the Mayor?"
+Red herring: "the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…"
+Whataboutism: "the mainstream media has largely ignored it"
+Bandwagon: "the scandal surrounding Russian efforts to acquire 20% of America’s uranium reserves"
+Obfuscation,Intentional_Vagueness,Confusion: "Confidential Source 1," "the same part of my client that made him go into the FBI"
+Straw man: "the Obama administration denied had any influence on the approval" 
+
+(Note: Some techniques may overlap or be difficult to classify distinctly due to the nature of the text.)

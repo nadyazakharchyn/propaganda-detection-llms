@@ -1,0 +1,4 @@
+Loaded_Language: "подогревают замерзающих военнослужащих",  
+Name_Calling,Labeling: "военнослужащих ВСУ",  
+Exaggeration,Minimisation: "замерзающих",  
+Red herring: "на окраине Харькова"

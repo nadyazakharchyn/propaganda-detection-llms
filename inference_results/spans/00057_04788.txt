@@ -1,0 +1,5 @@
+Slogans	142	151
+Black-and-White_Fallacy	97	137
+Bandwagon	75	89
+Doubt	153	179
+Exaggeration,Minimisation	2	21

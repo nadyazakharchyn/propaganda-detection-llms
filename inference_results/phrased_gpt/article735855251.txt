@@ -1,0 +1,6 @@
+Loaded_Language: "criminal aliens", "public safety threats", "fewer criminals in our communities",
+Name_Calling,Labeling: "criminal aliens",
+Repetition: "arrest of individuals who are criminal aliens and public safety threats",
+Appeal_to_fear-prejudice: "ICE’s ongoing and steady commitment to public safety",
+Exaggeration,Minimisation: "fewer criminals in our communities" (implying a significant impact from the arrests),
+Flag-Waving: "the continued results of our deportation officers underscore ICE’s ongoing and steady commitment to public safety"

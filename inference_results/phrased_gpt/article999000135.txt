@@ -1,0 +1,9 @@
+Loaded_Language: "absolute hypocrite", "hypocritical, lying, fake news outlet", "racist but utterly insane", "useful idiot, propagandist snowflake"
+Name_Calling,Labeling: "hypocrite", "hypocritical, lying, fake news outlet", "useful idiot, propagandist snowflake"
+Repetition: "Should military force be used to stop the caravan of migrants marching toward the U.S. border?" (repeated multiple times)
+Exaggeration,Minimisation: "the biggest terror threat in this country is white men, most of them radicalized to the right"
+Appeal_to_fear-prejudice: "Demonizing those intent on violating the law and have demonstrated that they are doing it along the way"
+Whataboutism: "He just doesn't want white men here. There, I said it!"
+Doubt: "How can he contradict himself like that and not even bat an eyelid?"
+Red herring: "Demonizing the ideology behind Islamic jihad is not an ethnic issue. It's an ideological one that spans cultures"
+Straw man: "No one is demonizing an ethnicity but Don Lemon."

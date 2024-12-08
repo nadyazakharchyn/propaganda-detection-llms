@@ -1,0 +1,9 @@
+Exaggeration,Minimisation	2923	2981
+Causal_Oversimplification	4474	4574
+Reductio_ad_hitlerum	3095	3511
+Exaggeration,Minimisation	1301	1542
+Repetition	3493	3510
+Loaded_Language	2580	2587
+Reductio_ad_hitlerum	2676	2856
+Loaded_Language	2930	2981
+Reductio_ad_hitlerum	3742	3444

@@ -1,0 +1,10 @@
+Repetition	9238	9246
+Loaded_Language	6069	6077
+Exaggeration,Minimisation	9170	9213
+Exaggeration,Minimisation	6197	7032
+Repetition	5756	5791
+Loaded_Language	7306	7315
+Loaded_Language	8187	8213
+Loaded_Language	7341	7351
+Repetition	7633	7662
+Exaggeration,Minimisation	6554	6644

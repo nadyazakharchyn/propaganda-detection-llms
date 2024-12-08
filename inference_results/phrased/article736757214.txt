@@ -1,0 +1,8 @@
+Loaded_Language: infuriating ,
+Name_Calling,Labeling: Sanctuary City Mayor ,
+Whataboutism: Except when she's fighting for their rapists instead.,
+Slogans: claims to fight for women,
+Name_Calling,Labeling: unsavory characters ,
+Exaggeration,Minimisation: immenent arrests,
+Whataboutism: Except when she's fighting for their rapists instead,
+Loaded_Language: unsavory 

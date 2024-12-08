@@ -1,0 +1,2 @@
+Exaggeration,Minimisation	9	53
+Causal_Oversimplification	13	53

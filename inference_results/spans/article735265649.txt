@@ -1,0 +1,11 @@
+Loaded_Language	959	981
+Loaded_Language	1003	1011
+Flag-Waving	2045	2071
+Name_Calling,Labeling	1047	1065
+Loaded_Language	1114	1137
+Flag-Waving	338	392
+Doubt	1871	1925
+Doubt	1930	2062
+Appeal_to_Authority	1483	1614
+Repetition	1551	1561
+Loaded_Language	1916	1962

@@ -1,0 +1,7 @@
+Name_Calling,Labeling: бандеровцы,
+Exaggeration,Minimisation: спецоперации,
+Exaggeration,Minimisation: "шайкой наркоманов и неонацистов",
+Reductio_ad_hitlerum: "Берите власть в свои руки, похоже, нам с вами будет легче договориться",
+Exaggeration,Minimisation: Вооруженные силы России в ходе спецоперации на Украине действуют мужественно, профессионально и героически,
+Name_Calling,Labeling: "неонацистов",
+Loaded_Language: ‼️

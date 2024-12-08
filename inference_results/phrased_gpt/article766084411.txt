@@ -1,0 +1,10 @@
+Loaded_Language: "crackdown on illegals", "absurd", "secret as possible", "cruel and insensitive"
+Name_Calling,Labeling: "Leftists", "Progressives", "good actors on the Left"
+Repetition: "Whom do you consider to be the most corrupt Democrat Politician?" (repeated multiple times)
+Exaggeration,Minimisation: "the surge of children into the US... was said to be the result of economics, high crime rates, and actual threats from organized crime entities" (implying a singular cause)
+Appeal_to_fear-prejudice: "the federal government grab of millions of acres of land during the Obama years"
+Causal_Oversimplification: "today's policy of separating underage siblings from their parents... seems to be a planned event by the US government"
+Doubt: "we really have no idea whether the children brought here during the Obama reign were intentionally separated from their parents"
+Red herring: "What they do not want to admit to is the fact that today's illegal immigration picture is one that follows the Obama plan"
+Obfuscation,Intentional_Vagueness,Confusion: "the bottom line is, both the Left and the Trump Administration seem to be following along with a plan of action going back to Jade Helm"
+Straw man: "the Left accusing the Trump Administration of being cruel and insensitive" (misrepresenting the Left's stance)

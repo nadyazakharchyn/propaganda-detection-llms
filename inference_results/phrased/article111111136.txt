@@ -1,0 +1,8 @@
+Loaded_Language: killed by hand grenades,
+Loaded_Language: exciting,
+Flag-Waving: the new,
+Appeal_to_fear-prejudice: People are shot to death in pizza restaurants, people are killed by hand grenades they find on the street,
+Appeal_to_fear-prejudice: over 300 shootings, mostly in turf battles between gangs over drugs, protection rackets and prostitution,
+Loaded_Language: fist option,
+Fearmongering: People are shot to death in pizza restaurants, people are killed by hand grenades they find on the street,
+Thought-terminating_Cliches: whatever it takes

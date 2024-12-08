@@ -1,0 +1,15 @@
+Doubt	9770	9823
+Thought-terminating_Cliches	8407	8554
+Loaded_Language	4369	4399
+Thought-terminating_Cliches	5401	5414
+Loaded_Language	1938	1948
+Loaded_Language	2121	2193
+Black-and-White_Fallacy	9781	9823
+Doubt	10072	10137
+Flag-Waving	11092	11220
+Flag-Waving	11222	11255
+Loaded_Language	2046	2084
+Loaded_Language	904	964
+Doubt	7021	7150
+Doubt	10146	10581
+Doubt	9781	9823

@@ -1,0 +1,4 @@
+Straw_Men	22	40
+Name_Calling,Labeling	48	64
+Exaggeration,Minimisation	66	111
+Loaded_Language	66	111

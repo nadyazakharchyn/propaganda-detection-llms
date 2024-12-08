@@ -1,0 +1,5 @@
+Loaded_Language	79	111
+Doubt	238	295
+Causal_Oversimplification	80	107
+Loaded_Language	218	237
+Causal_Oversimplification	112	146

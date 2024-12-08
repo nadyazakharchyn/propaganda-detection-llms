@@ -1,0 +1,4 @@
+Loaded_Language: "полные блокирующие санкции",
+Name_Calling,Labeling: "РФПИ",
+Repetition: "Вашингтон пообещал ввести полные блокирующие санкции" (implied repetition of the promise),
+Appeal_to_fear-prejudice: "блокирующие санкции против РФПИ"

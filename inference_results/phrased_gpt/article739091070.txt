@@ -1,0 +1,6 @@
+Loaded_Language: "illegal alien criminals," "rapists and child sex offenders," "tipping off criminals committing a felony."
+Name_Calling,Labeling: "Oakland Mayor Libby Schaaf," "Obama holdovers."
+Appeal_to_fear-prejudice: "tipped off illegal alien criminals to ICE raids resulting in rapists and child sex offenders escaping arrest."
+Causal_Oversimplification: "Because there is no doubt that businesses employing illegal aliens are committing a crime."
+Doubt: "Schaaf refuses to say how she learned about the ICE raids, only saying it was not from official sources."
+Red herring: "we didn’t find out who her sources were, but we do know who she was talking to before she made her big announcement."

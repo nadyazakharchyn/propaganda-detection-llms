@@ -1,0 +1,12 @@
+Loaded_Language: absurdity,
+Loaded_Language: spewing,
+Loaded_Language: demonizing,
+Loaded_Language: racist,
+Loaded_Language: sexist,
+Loaded_Language: fun,
+Loaded_Language: colorblind,
+Loaded_Language: Is Don Lemon colorblind? ,
+Loaded_Language: Is the FBI racist (and maybe a bit sexist)? ,
+Loaded_Language: again,
+Loaded_Language: again,
+Loaded_Language: fake news

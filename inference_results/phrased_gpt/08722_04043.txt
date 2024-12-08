@@ -1,0 +1,2 @@
+Loaded_Language: "сильных взрыва" (strong explosions),
+Appeal_to_fear-prejudice: "Все в укрытие!" (Everyone to shelter!)

@@ -1,0 +1,4 @@
+Loaded_Language: "очередную духоподъемную дичь",
+Name_Calling,Labeling: "Антифашистов",
+Exaggeration,Minimisation: "небо Украины под полным контролем",
+Doubt: "даже разоблачать не хочется"

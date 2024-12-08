@@ -1,0 +1,6 @@
+Loaded_Language: "the Left is driving more kids OUT of public schools," "the craziness over transgender students," "the Left-wing social engineering," "the violence, the bullying, the unsafe environments,"
+Name_Calling,Labeling: "the Left," "Left-wing curriculum,"
+Exaggeration,Minimisation: "the phones started ringing at the Texas Home School Coalition, and they haven’t stopped yet," "our numbers have doubled," "we’re dealing with probably between 1,200 and 1,400 calls and emails per month, and prior to that it was 600 to 700."
+Appeal_to_fear-prejudice: "worries about the school environment," "the violence, the bullying, the unsafe environments," "the recent school shooting at Parkland, Fla., was the last straw for scores of parents."
+Repetition: "homeschooling," "the Left," "unsafe environments,"
+Bandwagon: "please give serious thought and prayer to home-schooling your children."

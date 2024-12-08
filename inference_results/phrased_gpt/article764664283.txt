@@ -1,0 +1,7 @@
+Loaded_Language: "Wills’ naïve, inaccurate, misleadingly sunny view of the Qur’an,"
+Name_Calling,Labeling: "right-wing Islamophobes,"
+Doubt: "Wills is no more trustworthy when he deals with the question of violence in the Qur’an."
+Exaggeration,Minimisation: "Wills has ignored key passages in order to make his case."
+Appeal_to_fear-prejudice: "if the Islamic holy book is really as peaceful and benign as Garry Wills makes it out to be, why do so very many Muslims worldwide misunderstand it?"
+Whataboutism: "Wills’ assurances that the Qur’an is not really as bad as 'right-wing Islamophobes' say, or that the Bible contains material that is just as bad or worse, dissolve under close scrutiny."
+Reductio_ad_hitlerum: "Wills’ peaceful fantasy Qur’an raises one massive question that the author does not and cannot answer: if the Islamic holy book is really as peaceful and benign as Garry Wills makes it out to be, why do so very many Muslims worldwide misunderstand it?"

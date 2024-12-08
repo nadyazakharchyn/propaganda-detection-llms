@@ -1,0 +1,13 @@
+Exaggeration,Minimisation	2399	2457
+Doubt	2176	2210
+Flag-Waving	2360	2400
+Black-and-White_Fallacy	135	205
+Loaded_Language	2965	2973
+Loaded_Language	3056	3064
+Loaded_Language	3007	3022
+Loaded_Language	2176	2210
+Loaded_Language	2982	2990
+Exaggeration,Minimisation	1882	1896
+Loaded_Language	2961	2973
+Thought-terminating_Cliches	2046	2051
+Exaggeration,Minimisation	850	865

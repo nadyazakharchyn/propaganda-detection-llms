@@ -1,0 +1,5 @@
+Loaded_Language: "без боя освободили", 
+Name_Calling,Labeling: "ВСУшники", 
+Repetition: "Старобельск и Северодонецк" (repeated mention), 
+Causal_Oversimplification: "Армия Киева покинула Старобельск и Северодонецк" (implying a singular cause for the withdrawal), 
+Doubt: "Эти данные подтверждают местные жители" (questioning the credibility of the information).

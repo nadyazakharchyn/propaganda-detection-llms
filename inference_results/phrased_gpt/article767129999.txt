@@ -1,0 +1,6 @@
+Loaded_Language: "illegals," "worthless judicial process," "corrupt Democrat Politician," "horrible," "obsolete"
+Name_Calling,Labeling: "corrupt Democrat Politician"
+Repetition: "We want strong borders and we want no crime," "We want a system where when people come in illegally, they have to go out," "We want children staying together"
+Appeal_to_fear-prejudice: "The Democrats want open borders and they don’t care about crime."
+Causal_Oversimplification: "It takes years to deport them, which costs the American people lots of money."
+Doubt: "if any of them take the law seriously in the first place."

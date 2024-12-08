@@ -1,0 +1,8 @@
+Appeal_to_Authority: министр информации Чечни Ахмед Дудаев,
+Exaggeration,Minimisation: Тут ни один волос не упал с парней из Чеченской Республики,
+Appeal_to_Authority: Пишут, что,
+Exaggeration,Minimisation: ВСУ разгромили колонну военных из Чечни,
+Name_Calling,Labeling: всякие слухи,
+Loaded_Language: всякие слухи,
+Appeal_to_audience: Мы живы, мы на страже,
+Loaded_Language: ВСУ разгромили

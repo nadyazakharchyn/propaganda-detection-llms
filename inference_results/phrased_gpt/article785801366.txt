@@ -1,0 +1,10 @@
+Loaded_Language: "the unceasing onslaught by Jihad and its leftist enablers," "the disastrous Obama administration," "pathetic and destructive focus," "destructive fantasy," "trash and needs to be thrown in the garbage," "vicious and potent weapon," "baffling and shameful silence," "totalitarian leftist and Islamic forces," 
+Name_Calling,Labeling: "the Left and Islamists," "Muslim Brotherhood sympathizers," "right-wing Islamophobes," "totalitarian Mullahs of the world," 
+Exaggeration,Minimisation: "the calculated denial that leaders, authorities and media are enforcing about it," "the Left being in charge and of the destructive defeat that it is sowing," 
+Appeal_to_fear-prejudice: "the life-saving turn-around disposition that the Trump administration has brought in to counter Jihad," "the Muslim Brotherhood document... has made it clear that the Brotherhood’s objective is to destroy our civilization from within," 
+Causal_Oversimplification: "the Obama administration continues to allow the Muslim Brotherhood to direct American foreign policy," 
+Doubt: "Is he ready to be the Mayor?" (implied questioning of readiness in context),
+Bandwagon: "the education campaign must also focus on the second part of Gorka’s counter-propaganda campaign," 
+Reductio_ad_hitlerum: "the contemptuous, snickering and roaring laughter of people, as they gaze at the pathetic rules and lives of Sharia’s gatekeepers," 
+
+(Note: Some phrases may fit into more than one category, but the above list reflects the most relevant classifications based on the provided text.)

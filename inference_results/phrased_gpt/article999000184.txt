@@ -1,0 +1,8 @@
+Loaded_Language: "vociferous foe of Israel",
+Name_Calling,Labeling: "hijabed (and therefore pro-Sharia) Ilhan Omar", "hard-Left, anti-American, anti-Israel agenda",
+Exaggeration,Minimisation: "their hard-Left, anti-American, anti-Israel agenda",
+Appeal_to_fear-prejudice: "a disquieting sign of the continued dominance of identity politics, and the increasing balkanization of the American body politic",
+Doubt: "What kind of injustice?",
+Repetition: "It has to be one state. Separate but equal does not work. I’m only 42 years old but my teachers were of that generation that marched with Martin Luther King.",
+Causal_Oversimplification: "Progressive denial of their rights would soon follow",
+Whataboutism: "But Leftists rarely have to answer for their corruption, and in a Democrat House, Omar will much more likely be celebrated than investigated."

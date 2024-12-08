@@ -1,0 +1,6 @@
+Loaded_Language: "the price of a sanctuary city for illegal aliens is paid in abused children.",
+Name_Calling,Labeling: "illegal aliens",
+Causal_Oversimplification: "The price of a sanctuary city for illegal aliens is paid in abused children.",
+Appeal_to_fear-prejudice: "the four-day raid led to the arrest of 232 illegal immigrants in the San Francisco Bay Area.",
+Doubt: "Just ask the abused children of Oakland.",
+Red herring: "People should be able to live without fear or panic and know their rights and responsibilities as well as their recourses."

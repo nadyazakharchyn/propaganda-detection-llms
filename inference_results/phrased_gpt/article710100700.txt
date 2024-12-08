@@ -1,0 +1,3 @@
+Loaded_Language: "a threat to public safety,"
+Repetition: "foreign fugitives trying to escape law enforcement in their home countries is an ICE top priority," "ERO has removed more than 1,700 foreign fugitives from the United States who were sought in their native countries for serious crimes,"
+Appeal_to_fear-prejudice: "a threat to public safety," "who were sought in their native countries for serious crimes, including kidnapping, rape and murder."

@@ -1,0 +1,4 @@
+name_calling(33, 60)
+flag_waving(69, 84)
+Exaggeration,Minimisation(3, 30)
+Flag-Waving(3, 30)

@@ -1,0 +1,5 @@
+Loaded_Language: "Illegal Alien Mexican Rapist",
+Name_Calling,Labeling: "unsavory characters",
+Appeal_to_fear-prejudice: "fighting for their rapists instead",
+Causal_Oversimplification: "a Democratic mayor’s warning to illegal immigrants of an incoming ICE raid... may have led to a number of illegal immigrants with violent and sex-related convictions evading capture and deportation",
+Red herring: "One Mexican citizen had convictions for unlawful sexual intercourse with a minor and a conviction for driving under the influence (DUI), and had been deported in 2003."

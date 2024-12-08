@@ -1,0 +1,7 @@
+Loaded_Language	6939	6948
+Repetition	6912	6960
+Name_Calling,Labeling	6961	6987
+Flag-Waving	6862	6911
+Repetition	5226	5238
+Loaded_Language	6659	6870
+Flag-Waving	6961	6987

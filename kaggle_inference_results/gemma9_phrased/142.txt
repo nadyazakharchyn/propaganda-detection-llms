@@ -1,0 +1,108 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ ICE Arrests Over 150 in Bay Area
+
+Immigrations and Customs Enforcement (ICE) arrested more than 150 illegals in the San Francisco Bay Area this week -- no thanks to the Democrat mayor of Oakland, who tried to warn the constituents of her sanctuary city of impending ICE raids.
+Fox News reports that “targeted immigration enforcement operations” resulted in the arrests, about half of which snared fugitives with convictions for assault and battery, crimes against children, weapons charges and DUI.
+One such fugitive is a documented gang member whose “accumulated criminal convictions in California... have resulted in more than 15 years of prison sentencings” and who had previously been removed by ICE four times.
+Many of the other arrested illegals had criminal convictions from Mexico and Guatemala throughout Northern California.
+The arrests came despite a press release tweeted by Libby Schaaf, the Democratic mayor of Oakland, which noted that “multiple credible sources” told her ICE would be conducting the raids in the Bay Area.
+This did not win her any friends among law enforcement.
+ICE Deputy Director Thomas Homan said in a statement Tuesday,
+The Oakland mayor’s decision to publicize her suspicions about ICE operations further increased that risk for my officers and alerted criminal aliens — making clear that this reckless decision was based on her political agenda.
+Unlike the politicians who attempt to undermine ICE’s critical mission, our officers will continue to fulfill their sworn duty to protect public safety.
+True to the left's support for criminality over law and order, Mayor Schaaf declared that she considered it her "duty" to warn criminal illegals in her area.
+Fox News notes that ICE officials are asking the Department of Justice to look into whether she broke any laws by doing so.
+ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California.
+
+
+
+Response:
+Loaded_Language: illegals,
+Loaded_Language:  warn the constituents of her sanctuary city,
+Loaded_Language:  criminal illegals,
+Loaded_Language:  criminal illegals,
+Loaded_Language:  Democrat mayor,
+Loaded_Language:  Democrat mayor,
+Loaded_Language:  True to the left's support for criminality,
+Loaded_Language:  betrayed the law-abiding citizens,
+Appeal_to_fear-prejudice:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Exaggeration,Minimisation:  illegals,
+Thought-terminating_Cliches:  an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Name_Calling,Labeling:  illegals,
+Name_Calling,Labeling:  Democrat,
+Name_Calling,Labeling:  Democrat,
+Name_Calling,Labeling:  Democrat,
+Name_Calling,Labeling:  Democrat,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports that 864 illegal immigrants with criminal convictions and other public safety threats "remain at large" in the area -- an indeterminate number of whom may have been tipped off by a Democrat mayor who betrayed the law-abiding citizens of Northern California,
+Repetition:  ICE reports

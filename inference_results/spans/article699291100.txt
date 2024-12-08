@@ -1,0 +1,10 @@
+Doubt	3071	3144
+Name_Calling,Labeling	3706	3725
+Exaggeration,Minimisation	4000	4048
+Causal_Oversimplification	597	1013
+Doubt	1918	2224
+Slogans	3667	3688
+Name_Calling,Labeling	2483	2495
+Exaggeration,Minimisation	2986	3024
+Slogans	3706	3725
+Loaded_Language	1279	1299

@@ -1,0 +1,10 @@
+Loaded_Language	2245	2261
+Loaded_Language	784	793
+Loaded_Language	258	265
+Loaded_Language	651	659
+Loaded_Language	2374	2380
+Doubt	2457	2534
+Loaded_Language	561	577
+Repetition	2222	2236
+Loaded_Language	438	445
+Loaded_Language	999	1006

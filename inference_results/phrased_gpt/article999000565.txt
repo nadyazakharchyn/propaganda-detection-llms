@@ -1,0 +1,5 @@
+Loaded_Language: "Campus Commie," "hysterical profanity-laden melodramatic hissy fits," "leftist loon," "normalizing and enabling Nazis"
+Name_Calling,Labeling: "Campus Commie," "leftist loon"
+Exaggeration,Minimisation: "It doesn’t take much to trigger these people."
+Reductio_ad_hitlerum: "normalizing and enabling Nazis"
+Doubt: "By the way…where are her pants?"

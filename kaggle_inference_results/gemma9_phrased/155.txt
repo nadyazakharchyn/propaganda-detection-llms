@@ -1,0 +1,76 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ The Obama Era Jade Helm Connection To The Current Illegal Immigration Policy
+
+On the surface, the latest illegal immigration debate between Leftists and the Administration looks like, yet another issue Progressives are trying to undermine progress being done by the president.
+No one should be surprised by the crackdown on illegals entering the country, especially since it was one of the major campaign promises Donald Trump made before getting elected.
+When it comes to the separation of children from their families, there is nothing new today that was not being done during the Obama reign.
+In 2013, Obama began bringing into the US literally over a hundred thousand people, mainly below age 21.
+They were bused, flown, and met at the US border with Mexico by the Department of Homeland Security under the direction of Obama to do so.
+Since most of them were adolescents and older teenagers they could not be set free, thus Obama ordered various military bases to house these children.
+take our poll - story continues below
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker
+Email *
+Comments This field is for validation purposes and should be left unchanged.
+Completing this poll grants you access to Freedom Outpost updates free of charge.
+You may opt out at anytime.
+You also agree to this site's Privacy Policy and Terms of Use.
+The surge of children into the US from various countries south of the border was said to be the result of economics, high crime rates, and actual threats from organized crime entities.
+Another excuse used by the Obama government was to bring them here to find their families already in the US.
+Thus, the idea that separating children from their parents as being something new, done only by the Trump Administration is absurd, since we really have no idea whether the children brought here during the Obama reign were intentionally separated from their parents by the US government at that time, or not.
+We have only what little information the government told us then, which was not very much, considering the fact that Obama wanted to keep as much of this situation as secret as possible.
+What many do not realize is, today's policy of separating underage siblings from their parents once they cross the border illegally into the US seems to be a planned event by the US government going all the way back to the domestic military exercises known as Jade Helm in 2015.
+Many remember the military taking over several Walmart locations, mainly in Texas, during the Jade Helm exercises.
+This, along with the federal government grab of millions of acres of land during the Obama years, speaks volumes in the government's plan to be able to handle millions of people.
+Since Obama planned to have over a million Muslim refugees brought into the US over a short period of time, along with the hundreds of thousands of illegal immigrants coming in, one can understand the reason the Feds had to have the Walmart stores and so much land, as they needed housing for the millions they planned to bring in.
+Despite President Trump signing an Executive Order suspending Syrian refugees from entering the US for 120 days on Jan. 26, 2017 while security measures were reviewed, the US still imported 110,000 refugees from Syria and various other countries into the US in 2017 alone, up from 85,000 the previous year.
+These numbers follow Obama's projections of the expected amount of refugees permitted to come to the US.
+Of course, as with the number of illegal immigrants entering our county, the Feds downplay the actual number which always ends up to be more than quadruple their stated number.
+What we seem to have here with the illegal immigration situation today is some very good actors on the Left accusing the Trump Administration of being cruel and insensitive with separating children from their families once they cross the Mexican border into the US.
+When in fact, their idol, Obama did the same thing for years during his time in power.
+What they do not want to admit to is the fact that today's illegal immigration picture is one that follows the Obama plan on dealing with the influx of illegals to a carbon copy.
+President Trump, on the other hand, is following along with it by detaining illegal immigrants at the border and separating children from their apparent families.
+Since no one can know if the children really belong to the illegals who say they are their parents, they are separated until that can be verified, along with other background findings.
+The bottom line is, both the Left and the Trump Administration seem to be following along with a plan of action going back to Jade Helm which paved the way for the housing needed for such a huge influx of illegal immigrants and refugees.
+All of which seems to be a planned event.
+In any case, neither side in DC is really interested in solving the illegal immigration problem or cares about the children involved.
+If they were, there would be no detention and separation after illegally coming into the US, only an immediate deportation by US Border Patrol on the spot.
+
+
+
+Response:
+Loaded_Language: The Obama reign,
+Loaded_Language: the Trump Administration,
+Loaded_Language: their idol, Obama,
+Loaded_Language: the Obama plan,
+Loaded_Language: the Trump Administration,
+Loaded_Language: the children involved,
+Appeal_to_fear-prejudice:

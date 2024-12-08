@@ -1,0 +1,3 @@
+Loaded_Language	2	25
+Exaggeration,Minimisation	332	386
+Exaggeration,Minimisation	172	309

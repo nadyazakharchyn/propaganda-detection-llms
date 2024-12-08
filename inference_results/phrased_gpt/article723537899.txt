@@ -1,0 +1,6 @@
+Loaded_Language: "mortal peril", "ruthless regime", "blatant attack", "flagrant violation",
+Name_Calling,Labeling: "terror army", "traitors",
+Causal_Oversimplification: "when near two decades in Afghanistan have failed to secure that nation against the return of al-Qaida and ISIS?",
+Repetition: "Have the American people been had again?",
+Appeal_to_fear-prejudice: "when the Turks regard them as terrorists?",
+Black-and-White_Fallacy: "Are we prepared for a shooting war with a Syrian army, backed by Russia, Iran, Hezbollah and Shiite militias from Iraq, Afghanistan and Pakistan, to hold onto a fourth of Syria's territory in alliance with Kurds?"

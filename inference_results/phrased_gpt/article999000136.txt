@@ -1,0 +1,8 @@
+Loaded_Language: "f***ed up state," "cracker state," "crazy, crazy, crazies,"  
+Name_Calling,Labeling: "Gillum is a Progressive," "useful idiot,"  
+Repetition: "that will never happen" (repeated multiple times),  
+Appeal_to_fear-prejudice: "to appeal to white guilt,"  
+Doubt: "what sort of useful idiot is Smith?"  
+Red herring: "OK, we know that, but if that is true, what sort of useful idiot is Smith?"  
+Straw man: "Gillum is not a lawful man as he does not support the right to keep and bear arms,"  
+Obfuscation,Intentional_Vagueness,Confusion: "That’s not for them to know."

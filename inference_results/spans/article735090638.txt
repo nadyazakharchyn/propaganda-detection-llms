@@ -1,0 +1,10 @@
+Loaded_Language	235	259
+Loaded_Language	876	927
+Loaded_Language	911	928
+Loaded_Language	765	804
+Loaded_Language	1125	1175
+Flag-Waving	1021	1124
+Loaded_Language	604	642
+Loaded_Language	1021	1082
+Loaded_Language	543	566
+Repetition	1407	1426

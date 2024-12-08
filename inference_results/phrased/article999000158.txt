@@ -1,0 +1,9 @@
+Flag-Waving: Ellison is attempting to pull an Obama.,
+Name_Calling,Labeling: totalitarian-minded,
+Flag-Waving: Remember when Obama's "pastor," Jeremiah Wright uttered "God damn, America!"? Obama tried to say he had been in that church for years and never heard such things, which isn't true.,
+Name_Calling,Labeling: flea-infested political con man.,
+Slogans: If you like down with dogs, you're going to get fleas,
+Loaded_Language: Yeah, right, Hakim! ,
+Name_Calling,Labeling: pathological liar and accused woman abuser,
+Causal_Oversimplification: Ellison knew what kind of man Farrakhan was then and what kind of man he still is today.,
+Slogans: God damn, America!

@@ -1,0 +1,110 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ Stop Comparing Immigration Enforcement to the Holocaust
+
+The media has 2 very simple rules for Holocaust analogies.
+1.
+The Muslim Brotherhood's leaders praising Hitler, calling for another Holocaust and killing Jews is nothing like the Holocaust.
+And only shameless Zionists would attempt to equate killing Jews with killing Jews.
+2.
+Anything a Republican president does is exactly like the Holocaust.
+A former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet.
+“Other governments have separated mothers and children,” Former CIA and NSA chief Michael Hayden wrote on Saturday, along with a black and white photo of the Birkenau concentration and death-camp in Poland.
+Then Hayden doubled down on that analogy.
+It's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany.
+Repeatedly.
+You might think that would have cured him of facile Nazi analogies.
+But instead it seems to have whetted his appetite for making them.
+Yes, the Nazi arrested people, asked them for ID, split up families and... then killed them all.
+That's the really relevant part.
+Every country arrests people.
+Just about every country splits up families when they arrest the parents.
+That's not unique.
+Selecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one.
+Hayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement.
+The attacks here are motivated by a desire for open borders.
+Children are being used as human shields in a campaign to end national security forever.
+
+
+
+Response:
+Loaded_Language: The media has 2 very simple rules for Holocaust analogies,
+Loaded_Language: And only shameless Zionists would attempt to equate killing Jews with killing Jews,
+Loaded_Language: 2.
+Anything a Republican president does is exactly like the Holocaust,
+Loaded_Language: A former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet,
+Loaded_Language: “Other governments have separated mothers and children,”
+Loaded_Language: Then Hayden doubled down on that analogy,
+Loaded_Language: It's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany,
+Loaded_Language: Repeatedly,
+Loaded_Language: You might think that would have cured him of facile Nazi analogies,
+Loaded_Language: But instead it seems to have whetted his appetite for making them,
+Loaded_Language: Yes, the Nazi arrested people, asked them for ID, split up families and... then killed them all,
+Loaded_Language: That's the really relevant part,
+Loaded_Language: Every country arrests people,
+Loaded_Language: Just about every country splits up families when they arrest the parents,
+Loaded_Language: That's not unique,
+Loaded_Language: Selecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one,
+Loaded_Language: Hayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement,
+Loaded_Language: The attacks here are motivated by a desire for open borders,
+Loaded_Language: Children are being used as human shields in a campaign to end national security forever,
+Thought-terminating_Cliches: That's the really relevant part,
+Appeal_to_Authority: A former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet,
+Appeal_to_Authority: Then Hayden doubled down on that analogy,
+Appeal_to_Authority: It's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany,
+Appeal_to_Authority: Repeatedly,
+Appeal_to_Authority: You might think that would have cured him of facile Nazi analogies,
+Appeal_to_Authority: But instead it seems to have whetted his appetite for making them,
+Appeal_to_Authority: Hayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement,
+Exaggeration,Minimisation: Just about every country splits up families when they arrest the parents,
+Exaggeration,Minimisation: That's not unique,
+Exaggeration,Minimisation: Selecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one,
+Causal_Oversimplification: If the victims say to have the thief shot, then you should do it,
+Name_Calling,Labeling: And only shameless Zionists would attempt to equate killing Jews with killing Jews,
+Name_Calling,Labeling: The attacks here are motivated by a desire for open borders,
+Repetition: 1.
+The media has 2 very simple rules for Holocaust analogies,
+Repetition: 2.
+Anything a Republican president does is exactly like the Holocaust,
+Repetition: A former CIA director compared US immigration policy to Nazi Germany in an ominous Tweet,
+Repetition: “Other governments have separated mothers and children,”
+Repetition: Then Hayden doubled down on that analogy,
+Repetition: It's particularly stupid of Michael Hayden to make that analogy because during the Bush years, the agencies he ran were compared to Nazi Germany,
+Repetition: Repeatedly,
+Repetition: You might think that would have cured him of facile Nazi analogies,
+Repetition: But instead it seems to have whetted his appetite for making them,
+Repetition: Yes, the Nazi arrested people, asked them for ID, split up families and... then killed them all,
+Repetition: That's the really relevant part,
+Repetition: Every country arrests people,
+Repetition: Just about every country splits up families when they arrest the parents,
+Repetition: That's not unique,
+Repetition: Selecting the Jews, based on race, for extermination is more of the reason why the term Nazi is not a positive one,
+Repetition: Hayden's thoughtless tweet can just as easily be used to delegitimize any and all law enforcement,
+Repetition: The attacks here are motivated by a desire for open borders,
+Repetition: Children are being used as human shields in a campaign to end national security forever,
+Slogans:

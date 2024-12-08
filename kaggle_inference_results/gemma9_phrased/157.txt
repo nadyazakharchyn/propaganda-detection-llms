@@ -1,0 +1,68 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ President Donald Trump Proposes "Simple Immigration Plan": Illegals Have To Go!
+
+On Monday, President Donald Trump proposed what he sees as an ideal immigration plan during a meeting with the King and Queen of Jordan at the White House.
+“We want a system where when people come in illegally, they have to go out,” Trump told reporters.
+“A nice simple system that works.”
+Trump said that the system that Mexico uses to deal with illegals by holding them a few hours and then sending them away is preferable to how the long, drawn out process in the united States is conducted.
+take our poll - story continues below
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker
+Email *
+Phone This field is for validation purposes and should be left unchanged.
+Completing this poll grants you access to Freedom Outpost updates free of charge.
+You may opt out at anytime.
+You also agree to this site's Privacy Policy and Terms of Use.
+I completely agree.
+In fact, I've often said if we catch people close to the border, we should not even bring them into the system if they are not citizens, but walk them back over the border and make sure they keep walking.
+Often, by putting illegals into the system, it takes years to deport them, which costs the American people lots of money.
+That system would require more judges to handle more illegals and Trump ripped the calls for more judges in favor of a more "simple immigration plan."
+“We want strong borders and we want no crime,” Trump said.
+“The Democrats want open borders and they don’t care about crime.”
+Trump then called on Congress to correct the problems created by legislation with more legislation.
+“The laws are obsolete, the laws are horrible, having to do with the border, both in terms of security and in terms of taking care of people,” he said.
+“We want children staying together,” Trump said, blasting the New York Times report that said he didn't really want to sign his executive order last week that would keep families together in detention while they awaited the judicial process.
+Of course, Trump has inherited a problem that has existed for several administrations, both Republican and Democrat, for decades.
+It is time that Congress sure up things so that America's tax dollars are not bound up in a worthless judicial process when people are clearly in the country illegally.
+Sadly, too many people want more amnesty which begs the question if any of them take the law seriously in the first place.
+Article posted with permission from Sons Of Liberty Media
+
+
+
+Response:
+Loaded_Language: “We want a system where when people come in illegally, they have to go out”,
+Loaded_Language: “A nice simple system that works.”,
+Loaded_Language: “We want strong borders and we want no crime”,
+Loaded_Language: “The Democrats want open borders and they don’t care about crime”,
+Loaded_Language: “The laws are obsolete, the laws are horrible, having to do with the border, both in terms of security and in terms of taking care of people”,
+Loaded_Language: “We want children staying together”,
+Loaded_Language: “It is time that Congress sure up things so that America's tax dollars are not bound up in a worthless judicial process when people are clearly in the country illegally”,
+Loaded_Language: “Sadly, too many people want more amnesty which begs the question if any of them take the law seriously in the first place”

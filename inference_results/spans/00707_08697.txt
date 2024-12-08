@@ -1,0 +1,15 @@
+Exaggeration,Minimisation	120	159
+Exaggeration,Minimisation	30	51
+Exaggeration,Minimisation	40	49
+Black-and-White_Fallacy	307	360
+Exaggeration,Minimisation	193	281
+Flag-Waving	193	281
+Exaggeration,Minimisation	63	117
+Exaggeration,Minimisation	451	485
+Exaggeration,Minimisation	671	761
+Exaggeration,Minimisation	561	642
+Exaggeration,Minimisation	489	496
+Slogans	551	556
+Exaggeration,Minimisation	72	123
+Appeal_to_fear-prejudice	801	829
+Exaggeration,Minimisation	6	17

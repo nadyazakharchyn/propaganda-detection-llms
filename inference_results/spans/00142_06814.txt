@@ -1,0 +1,4 @@
+Reductio_ad_hitlerum	35	47
+Exaggeration,Minimisation	93	110
+Exaggeration,Minimisation	113	146
+Loaded_Language	124	132

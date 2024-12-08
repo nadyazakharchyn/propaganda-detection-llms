@@ -1,0 +1,7 @@
+Loaded_Language: "this appears to be clear bribery, and a case could be made for treason.",
+Name_Calling,Labeling: "Hillary Clinton",
+Appeal_to_fear-prejudice: "they told Mr. Campbell with the Clinton’s help, it was a shoo-in to get CFIUS approval.",
+Doubt: "While Democrats have unsurprisingly questioned Campbell's credibility,",
+Red herring: "Of course, we know what Obama did with his daily briefings. They are somewhere in the White House sewer system.",
+Exaggeration,Minimisation: "Campbell claims to have video evidence of bribe money related to the Uranium One deal being stuffed into suitcases.",
+Whataboutism: "All of this then goes back to things we have pointed out with ranchers in the western united States and how this impacts them, as well as the land grabs that are unconstitutionally orchestrated by the DC government and the Bureau of Land Management."

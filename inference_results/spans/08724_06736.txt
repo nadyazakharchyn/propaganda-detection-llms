@@ -1,0 +1,6 @@
+Loaded_Language	35	42
+Loaded_Language	107	118
+Name_Calling,Labeling	124	131
+Exaggeration,Minimisation	170	174
+Exaggeration,Minimisation	132	154
+Exaggeration,Minimisation	159	169

@@ -1,0 +1,10 @@
+Name_Calling,Labeling: "шайкой наркоманов и неонацистов",
+Exaggeration,Minimisation: спецоперации на Украине,
+Appeal_to_fear-prejudice: планируют использовать детей, жен и стариков в качестве живого щита,
+Appeal_to_fear-prejudice: выставляют тяжёлое вооружение прямо в центральных районах крупных городов,
+Name_Calling,Labeling: бандеровцы,
+Appeal_to_fear-prejudice: взяла в заложники весь украинский народ,
+Name_Calling,Labeling: неонацисты,
+Flag-Waving: Берите власть в свои руки,
+Appeal_to_fear-prejudice: в Киеве засела "шайкой наркоманов и неонацистов",
+Flag-Waving: нам с вами будет легче договориться

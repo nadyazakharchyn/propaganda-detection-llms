@@ -1,0 +1,3 @@
+Appeal_to_fear-prejudice: мародеры пытались захватить машину АТБ с продуктами,
+Loaded_Language: WARSTOP,
+Causal_Oversimplification: мародеры пытались захватить машину АТБ с продуктами

@@ -1,0 +1,6 @@
+Loaded_Language: "the situation is intolerable," "strategic disaster," "a clamor will arise in Congress," "the interventionist Post is saying"
+Causal_Oversimplification: "a failure by the United States to defend its allies or promote new political arrangements for (Syria and Iraq) will lead only to more war"
+Appeal_to_fear-prejudice: "the necessity of more U.S. intervention," "more terrorist threats"
+Whataboutism: "If we rely on the Kurds in Syria, we lose NATO ally Turkey, which regards Syria's Kurds as collaborators of the PKK in Turkey, which even the U.S. designates a terrorist organization."
+Doubt: "Would President Trump be willing to fight a new war to keep Iran from consolidating its position in Iraq and Syria?"
+Repetition: "Would the American people support such a war with U.S. troops?" (repeated questioning)

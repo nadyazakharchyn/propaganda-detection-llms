@@ -1,0 +1,11 @@
+Flag-Waving	66	157
+Black-and-White_Fallacy	1597	1644
+Slogans	474	502
+Straw_Men	72	279
+Exaggeration,Minimisation	719	779
+Exaggeration,Minimisation	1431	1513
+Appeal_to_fear-prejudice	770	823
+Loaded_Language	1408	1447
+Loaded_Language	821	823
+Slogans	169	274
+Loaded_Language	1318	1344

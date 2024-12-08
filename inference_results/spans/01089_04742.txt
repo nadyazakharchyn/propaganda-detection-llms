@@ -1,0 +1,8 @@
+Loaded_Language	234	267
+Causal_Oversimplification	10	99
+Black-and-White_Fallacy	10	99
+Loaded_Language	99	110
+Name_Calling,Labeling	110	120
+Slogans	0	9
+Loaded_Language	200	212
+Loaded_Language	0	9

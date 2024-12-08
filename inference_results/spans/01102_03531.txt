@@ -1,0 +1,5 @@
+Appeal_to_fear-prejudice	155	180
+Loaded_Language	48	52
+Exaggeration,Minimisation	0	20
+Reductio_ad_hitlerum	3	48
+Loaded_Language	0	20

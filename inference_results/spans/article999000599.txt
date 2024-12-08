@@ -1,0 +1,16 @@
+Reductio_ad_hitlerum	2492	2641
+Doubt	1719	1766
+Slogans	882	899
+Causal_Oversimplification	2680	2920
+Appeal_to_fear-prejudice	2168	2490
+Doubt	1766	2419
+Slogans	2649	2726
+Name_Calling,Labeling	1499	1517
+Loaded_Language	2492	2641
+Exaggeration,Minimisation	2168	2474
+Causal_Oversimplification	2492	2641
+Slogans	2511	2641
+Loaded_Language	2754	2771
+Root_syllogism	510	526
+Appeal_to_fear-prejudice	2092	2142
+Doubt	1815	1975

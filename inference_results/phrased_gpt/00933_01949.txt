@@ -1,0 +1,3 @@
+Loaded_Language: "мародеры пытались захватить машину АТБ с продуктами",
+Exaggeration,Minimisation: "раздали калаши всем желающим",
+Appeal_to_fear-prejudice: "мародеры пытались захватить машину"

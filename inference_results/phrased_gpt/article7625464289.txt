@@ -1,0 +1,10 @@
+Loaded_Language: "parents seethe over liberal social engineering and violence",
+Name_Calling,Labeling: "leftist social engineering", "liberal violence", "collectivist agenda iceberg",
+Repetition: "parents are continually getting more and more upset",
+Exaggeration,Minimisation: "the indoctrination is getting so bad",
+Appeal_to_fear-prejudice: "concerned about liberal violence against those who reject the brainwashing",
+Causal_Oversimplification: "homeschooling takes care of that problem",
+Appeal_to_Authority: "Brian D. Ray, who heads up the National Home Education Research Institute",
+Doubt: "Is he ready to be the Mayor?",
+Red herring: "Governments are nothing more than a handful of people and have no right to aggress against others",
+Bandwagon: "more will wake up to the absolute horror of what allowing the state to educate our children has done to the moral fabric of humanity"

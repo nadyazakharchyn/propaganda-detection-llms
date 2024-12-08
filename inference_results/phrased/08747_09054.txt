@@ -1,0 +1,4 @@
+Exaggeration,Minimisation: освободителям,
+Loaded_Language: спасибо вам, родные,
+Loaded_Language: Спасибо,
+Exaggeration,Minimisation: Освобождение

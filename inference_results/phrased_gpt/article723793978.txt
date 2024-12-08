@@ -1,0 +1,7 @@
+Loaded_Language: "the new, exciting dynamic, multicultural paradise that so many here in this assembly … have fought to create for so many years,"  
+Name_Calling,Labeling: "populist, opposition Sweden Democrats"  
+Exaggeration,Minimisation: "Four people were shot dead in the first week of this year."  
+Appeal_to_fear-prejudice: "linking public concern about the rising crime rate to a large increase in the numbers of immigrants."  
+Repetition: "People are shot to death in pizza restaurants, people are killed by hand grenades they find on the street."  
+Thought-terminating_Cliches: "That’s crazy."  
+Red herring: "Wikipedia has a page devoted to 'List of Grenade Attacks in Sweden,' which lists 80 different attacks beginning in 2014."

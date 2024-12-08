@@ -1,0 +1,13 @@
+Loaded_Language: Disgusting,
+Loaded_Language: mean, nasty and evil,
+Name_Calling,Labeling: if a conservative person uttered those comments?,
+Name_Calling,Labeling: they are criminals and have black skin,
+Loaded_Language: death threats,
+Doubt: Can you imagine if a conservative person uttered those comments?,
+Loaded_Language: blown it off with a joke,
+Name_Calling,Labeling: every person with dark skin on the planet,
+Exaggeration,Minimisation: every person with dark skin on the planet,
+Loaded_Language: childlish,
+Loaded_Language: fawning,
+Name_Calling,Labeling: all black people,
+Name_Calling,Labeling: those fawning over her

@@ -1,0 +1,6 @@
+Name_Calling,Labeling: укровских артиллеристов,
+Loaded_Language: мечтал дотянуться до укровских артиллеристов, подержаться за горло,
+Loaded_Language: пизды,
+Appeal_to_fear-prejudice: в страданиях мирного населения Донбасса,
+Name_Calling,Labeling: ополченец,
+Loaded_Language: Карма их настигла

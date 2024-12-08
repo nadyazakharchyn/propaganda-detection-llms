@@ -1,0 +1,6 @@
+Loaded_Language: "heart-wrenching pain," "atrocities perpetrated," "filth," "deliberate policy of cover up"
+Repetition: "was long ignored, kept quiet or silenced," "beg forgiveness for our own sins and the sins of others"
+Appeal_to_fear-prejudice: "the abuse of power and of conscience at the hands of priests"
+Doubt: "I’m not sure what his words will be and I’m not sure that a simple apology is what survivors of abuse want"
+Causal_Oversimplification: "the Catholic Church has a structural problem when it comes to dealing with cover up accusations"
+Whataboutism: "Like his predecessor, Francis has promised 'zero tolerance' on child abuse, but scandals have kept recurring in several parts of the world"

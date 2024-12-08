@@ -1,0 +1,3 @@
+Loaded_Language: "заколебала всех",
+Name_Calling,Labeling: "талибы",
+Causal_Oversimplification: "что талибы призвали к мирному урегулированию"

@@ -1,0 +1,6 @@
+Loaded_Language: "criminal aliens", "reckless sanctuary policies", "improving public safety",
+Repetition: "removing criminal aliens", "criminal prosecution for re-entry after deportation",
+Appeal_to_fear-prejudice: "put our communities at risk",
+Flag-Waving: "protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls",
+Causal_Oversimplification: "local law enforcement failed to honor an immigration detainer",
+Doubt: "Did not honor the ICE detainer that was placed", "pending presentation of criminal prosecution for re-entry after deportation"

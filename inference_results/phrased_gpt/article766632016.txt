@@ -1,0 +1,8 @@
+Loaded_Language: "he is lying, and relying on the historical ignorance of his audience."
+Name_Calling,Labeling: "the likes of Jihad Al-‘Ayesh."
+Exaggeration,Minimisation: "the figure of six million is a historical lie."
+Doubt: "Is he ready to be the Mayor?"
+Whataboutism: "Hitler did not annihilate the Jews only."
+Red herring: "It is said that they annihilated 50-100 hundred million, but nobody ever mentions this."
+Causal_Oversimplification: "The Jews were banished, tortured, and annihilated because of their deeds. They were not banished for being Jews."
+Thought-terminating_Cliches: "This is, indeed, a new fashion."

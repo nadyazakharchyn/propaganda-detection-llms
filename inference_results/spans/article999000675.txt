@@ -1,0 +1,3 @@
+Loaded_Language	944	955
+Loaded_Language	3230	3252
+Black-and-White_Fallacy	1856	1954

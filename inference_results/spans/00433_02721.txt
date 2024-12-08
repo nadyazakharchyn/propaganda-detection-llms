@@ -1,0 +1,3 @@
+Name_Calling,Labeling	64	105
+Name_Calling,Labeling	0	11
+Appeal_to_fear-prejudice	92	105

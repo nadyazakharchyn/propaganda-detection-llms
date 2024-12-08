@@ -1,0 +1,5 @@
+appeal_to_fear-prejudice	369	391
+appeal_to_fear-prejudice	163	182
+appeal_to_fear-prejudice	46	75
+exaggeration,minimisation	82	163
+Loaded_Language	87	96

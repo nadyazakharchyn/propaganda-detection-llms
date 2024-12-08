@@ -1,0 +1,6 @@
+Loaded_Language: "criminal aliens", "illegal alien", "pose a threat to public safety",
+Repetition: "arrested", "deported", "ICE’s commitment",
+Appeal_to_fear-prejudice: "keeping our communities safe by locating, arresting and ultimately removing at-large criminal aliens who pose a threat to public safety",
+Flag-Waving: "protect the nation, uphold public safety, and protect the integrity of our immigration laws and border controls",
+Causal_Oversimplification: "ICE will no longer exempt classes or categories of removable aliens from potential enforcement",
+Doubt: "He remains in U.S. Marshals custody pending the outcome of his criminal case."

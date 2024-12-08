@@ -1,0 +1,6 @@
+Loaded_Language: "demonizing people", "spewing more fake news for your viewing pleasure",
+Name_Calling,Labeling: "Don Lemon is lying... again", "CNN doing what CNN does",
+Exaggeration,Minimisation: "the biggest terror threat in this country is white men",
+Causal_Oversimplification: "the biggest terror threat in this country is white men, most of them radicalized to the right",
+Whataboutism: "There is no travel ban on them. There is no ban on — they had the Muslim ban. There is no white guy ban.",
+Doubt: "Is Don Lemon colorblind? Is the FBI racist (and maybe a bit sexist)?"

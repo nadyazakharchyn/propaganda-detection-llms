@@ -1,0 +1,9 @@
+Loaded_Language	790	818
+Loaded_Language	1503	1519
+Loaded_Language	1882	1913
+Exaggeration,Minimisation	805	814
+Name_Calling,Labeling	714	738
+Black-and-White_Fallacy	1809	1847
+Exaggeration,Minimisation	1655	1697
+Loaded_Language	1855	1881
+Exaggeration,Minimisation	1497	1575

@@ -1,0 +1,9 @@
+Exaggeration,Minimisation	2333	2357
+Loaded_Language	1654	1694
+Exaggeration,Minimisation	2370	2382
+Loaded_Language	123	163
+Exaggeration,Minimisation	491	506
+Flag-Waving	2528	2570
+Loaded_Language	2057	2155
+Exaggeration,Minimisation	395	671
+Loaded_Language	740	767

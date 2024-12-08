@@ -1,0 +1,7 @@
+Loaded_Language: "the new, exciting dynamic, multicultural paradise that so many here in this assembly ... have fought to create for so many years,"  
+Name_Calling,Labeling: "populist, opposition Sweden Democrats"  
+Appeal_to_fear-prejudice: "linking public concern about the rising crime rate to a large increase in the numbers of immigrants."  
+Exaggeration,Minimisation: "Sweden’s murder rate is relatively low in international terms, but gang violence has surged in recent years"  
+Repetition: "people are shot to death in pizza restaurants, people are killed by hand grenades they find on the street"  
+Doubt: "the police are unable to cope."  
+Red herring: "But a report by the Swedish National Council for Crime Prevention shows increasing numbers of Swedes worried about crime with confidence falling in the police and the judicial system."  

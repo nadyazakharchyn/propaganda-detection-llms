@@ -1,0 +1,7 @@
+Loaded_Language: "social justice crybullying," "the Left killed comedy," "Columbia snowflakes thought was offensive," "thought crimes," "un-safeness"
+Name_Calling,Labeling: "Columbia snowflakes"
+Appeal_to_fear-prejudice: "the Left killed comedy"
+Repetition: "the real world," "real world"
+Doubt: "I can't imagine what they would have made of Richard Pryor, or at this point even, Chris Rock."
+Red herring: "I really dislike when people who are older say that our generation needs to be exposed to the real world."
+Obfuscation,Intentional_Vagueness,Confusion: "the world is not a safe space but just accepting that it’s not and continuing to perpetuate the un-safeness of it… is saying that it can’t be changed."

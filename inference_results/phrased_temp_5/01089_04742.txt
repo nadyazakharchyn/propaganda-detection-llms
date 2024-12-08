@@ -1,0 +1,9 @@
+Loaded_Language: бандуру,
+Appeal_to_fear-prejudice: Украинские военные бросают НАТОвские пушки и бегут с позиций,
+Appeal_to_fear-prejudice: Натовская помощь попросту бросается на поле боя,
+Appeal_to_fear-prejudice: отступать и тянуть тяжёлую бандуру не практично,
+Loaded_Language: тяжёлую бандуру,
+Loaded_Language: Проданные,
+Loaded_Language: Проданные,
+Loaded_Language: как отступать и тянуть тяжёлую бандуру не практично,
+Loaded_Language: Натовская помощь попросту бросается на поле боя

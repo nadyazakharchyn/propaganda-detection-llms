@@ -1,0 +1,7 @@
+Loaded_Language: "the most devastating Israeli attack in decades on Syria,"  
+Loaded_Language: "monumental stupidity,"  
+Name_Calling,Labeling: "the War Party,"  
+Doubt: "Has President Trump thought through where we are going with this deepening commitment in Syria?"  
+Causal_Oversimplification: "what would be the cost and what would be the prospects of fighting a new and wider war?"  
+Obfuscation,Intentional_Vagueness,Confusion: "what would victory look like?"  
+Red Herring: "what about the victims of crime?"  

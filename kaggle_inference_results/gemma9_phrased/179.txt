@@ -1,0 +1,75 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ Democrat’s Friend Louis Farrakhan In Iran: “Death to America!” – America Is The “Great Satan”
+
+Ah yes, Nation of Islam leader, racist, and totalitarian Louis Farrakhan was recently captured on video in Tehran, Iran chanting “Death to America” in Arabic and stating that America is the “Great Satan.”
+Louis Farrakhan, leader of Nation of Islam, met with Mohsen Rezaee, secretary of Iran‘s Expediency Discernment Council, on Sunday in Tehran.
+Heres’ what he had to say.
+Iran state TV news presenter: Listen to leader of Nation of Islam chanting "Death to America" Farrakhan [in Farsi]: "Death to…"
+Audience: "…America" pic.twitter.com/p0qGfHHfg0 — Sobhan Hassanvand (@Hassanvand) November 4, 2018
+He then went on in a university speech to encourage the revolution and to persevere against the sanctions of the US, whom he referred to as the “Great Satan.”
+Louis Farrakhan Refers to the U.S. as "Great Satan" during a Tehran University Speech; Says to Iranians: If You Persevere in Your Revolution Despite the Sanctions, "Victory Will Be Yours."
+pic.twitter.com/7ZVloq2cXL — MEMRI (@MEMRIReports) November 5, 2018
+Algemeiner reported:
+Nation of Islam leader and prominent antisemite Louis Farrakhan chanted “Death to America” and claimed that “America has never been a democracy” on Sunday during a solidarity trip to Iran, ahead of the re-implementation of US sanctions on the country this week.
+According to Iran’s semi-official state news agency Mehr, Farrakhan said at a meeting with the Secretary of Iran’s Expediency Council Mohsen Rezaei that America is conspiring against Iran.
+“I understand how the enemies have plotted against the Iranian people and I would like to stay alongside you to stop their plots,” he said.
+He also blasted American support for Saudi Arabia, Iran’s arch-rival in the region, and added, “Satan seeks to divide Muslims and wants them to kill each other, while God tells us in the Quran to be united.”
+This man is a domestic terrorist and he assimilates with avowed enemies of the US, many of them US Democrats.
+What I want to know is why would Louis Farrakhan ever be allowed back inside our borders after such statements?
+Is this not treason of the first order?
+Furthermore, why are Democrats such as Keith Ellison, who has a long history of friendship with Farrakhan, despite the lies he tells to try and distance himself from Farrakhan for votes, not being arrested for his ties to this criminal traitor?
+And Ellison isn’t the only Democrat who approves of Farrakhan!
+H/T Gateway Pundit
+
+
+
+Response:
+Loaded_Language:  a long history of friendship with Farrakhan,
+Loaded_Language:  despite the lies he tells to try and distance himself from Farrakhan for votes,
+Loaded_Language:  not being arrested for his ties to this criminal traitor,
+Loaded_Language:  this criminal traitor,
+Name_Calling,Labeling:  a domestic terrorist,
+Loaded_Language:  such statements,
+Loaded_Language:  why are Democrats such as Keith Ellison,
+Loaded_Language:  who has a long history of friendship with Farrakhan,
+Loaded_Language:  despite the lies he tells to try and distance himself from Farrakhan for votes,
+Loaded_Language:  not being arrested for his ties to this criminal traitor,
+Loaded_Language:  this criminal traitor,
+Appeal_to_fear-prejudice:  Why would Louis Farrakhan ever be allowed back inside our borders after such statements,
+Loaded_Language:  Is this not treason of the first order,
+Loaded_Language:  And Ellison isn’t the only Democrat who approves of Farrakhan,
+Thought-terminating_Cliches:  What I want to know is why would Louis Farrakhan ever be allowed back inside our borders after such statements,
+Loaded_Language:  Is this not treason of the first order,
+Loaded_Language:  Furthermore, why are Democrats such as Keith Ellison,
+Loaded_Language:  who has a long history of friendship with Farrakhan,
+Loaded_Language:  despite the lies he tells to try and distance himself from Farrakhan for votes,
+Loaded_Language:  not being arrested for his ties to this criminal traitor,
+Loaded_Language:  this criminal traitor,
+Loaded_Language:  And Ellison isn’t the only Democrat who approves of Farrakhan,
+Loaded_Language:  

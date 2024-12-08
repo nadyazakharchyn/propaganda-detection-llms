@@ -1,0 +1,6 @@
+Loaded_Language: "jokes that were criticized as racist and homophobic",
+Name_Calling,Labeling: "AAA officials deemed inappropriate",
+Exaggeration,Minimisation: "none of his remarks were offensive, and he was exposing the audience to ideas that would be found 'in the real world.'",
+Appeal_to_fear-prejudice: "using people’s ethnicity as the crux of his jokes could be funny but still offensive",
+Doubt: "Neither Patel and nor AAA could immediately be reached for comment.",
+Red herring: "While what some of the things that he said might have been a bit provoking to some of the audience, as someone who watches comedy a lot, none of them were jokes that I hadn’t heard before and none of them were jokes that elicited such a response in my experience."

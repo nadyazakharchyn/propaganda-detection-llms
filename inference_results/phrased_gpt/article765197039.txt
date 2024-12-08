@@ -1,0 +1,6 @@
+Loaded_Language: "sane person is saying that the West should go to war with the entire Islamic world", "remarkable ignorance of history", "deep contempt for non-Muslims", "just another mainstream hack politician."
+Name_Calling,Labeling: "mainstream hack politician"
+Exaggeration,Minimisation: "the entire religion", "the entire non-Muslim world"
+Appeal_to_fear-prejudice: "we’ll lose", "we must not think that we are at war with the entire religion"
+Causal_Oversimplification: "if dealing with Islamic fundamentalism becomes a battle between us and the entire religion, I’ll tell you the result: we’ll lose."
+Whataboutism: "But what, Mr. Farage, are we to think about the Muslims who consider themselves and their religion to be at war with us?"

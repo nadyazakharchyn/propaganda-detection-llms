@@ -1,0 +1,3 @@
+Loaded_Language	187	200
+Exaggeration,Minimisation	354	407
+Doubt	23	38

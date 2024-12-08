@@ -1,0 +1,7 @@
+Loaded_Language: "turning our country into a hopeless hellhole where the native population is overtaxed and terrorized by warring foreign gangs.",
+Name_Calling,Labeling: "immigrant gangs",
+Exaggeration,Minimisation: "It's Demolition Man in real life pitting refugee war criminals and terrorists against bureaucrats with badges who are used to telling people not to raise their voices.",
+Appeal_to_fear-prejudice: "Why would anyone associate rising crime and immigration? Maybe because the gangs in question are immigrant gangs.",
+Doubt: "Of course they can't cope.",
+Red herring: "Mass repression and police powers that don't actually address the cause of the problem.",
+Obfuscation,Intentional_Vagueness,Confusion: "Bringing in the military comes in as an option ahead of cutting migration to Sweden. That tells you everything."

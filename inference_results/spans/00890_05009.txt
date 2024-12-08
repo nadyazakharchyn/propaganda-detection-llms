@@ -1,0 +1,7 @@
+Loaded_Language	396	409
+Loaded_Language	67	81
+Black-and-White_Fallacy	111	122
+Red_Herring	240	295
+Loaded_Language	294	323
+Loaded_Language	324	382
+Exaggeration,Minimisation	240	295

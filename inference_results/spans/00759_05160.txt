@@ -1,0 +1,3 @@
+Exaggeration,Minimisation	158	176
+Exaggeration,Minimisation	184	200
+Appeal_to_fear-prejudice	203	228

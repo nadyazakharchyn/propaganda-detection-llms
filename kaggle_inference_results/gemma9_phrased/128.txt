@@ -1,0 +1,95 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ FBI Informant “Threatened” After Offering Details Linking Clinton Foundation To Russian Bribery Case
+
+This report was originally published by Tyler Durden at Zero Hedge
+While the mainstream media has largely ignored it, the scandal surrounding Russian efforts to acquire 20% of America’s uranium reserves, a deal which was ultimately approved by the Obama administration, and more specifically the Committee on Foreign Investment in the United States (CFIUS) which included Hillary Clinton and Eric Holder, is becoming more problematic for Democrats by the hour.
+As The Hill pointed out earlier this morning, the latest development in this sordid tale revolves around a man that the FBI used as an informant back in 2009 and beyond to build a case against a Russian perpetrator who ultimately admitted to bribery, extortion and money laundering.
+The informant, who is so far only known as “Confidential Source 1,” says that when he attempted to come forward last year with information that linked the Clinton Foundation directly to the scandal he was promptly silenced by the FBI and the Obama administration.
+Working as a confidential witness, the businessman made kickback payments to the Russians with the approval of his FBI handlers and gathered other evidence, the records show.
+Sources told The Hill the informant’s work was crucial to the government’s ability to crack a multimillion dollar racketeering scheme by Russian nuclear officials on U.S. soil that involved bribery, kickbacks, money laundering and extortion.
+In the end, the main Russian executive sent to the U.S. to expand Russian President Vladimir Putin’s nuclear business, an executive of an American trucking firm and a Russian financier from New Jersey pled guilty to various crimes in a case that started in 2009 and ended in late 2015.
+Toensing added her client has had contact from multiple congressional committees seeking information about what he witnessed inside the Russian nuclear industry and has been unable to provide that information because of the NDA.
+“He can’t disclose anything that he came upon in the course of his work,” she said.
+The information the client possesses includes specific allegations that Russian executives made to him about how they facilitated the Obama administration’s 2010 approval of the Uranium One deal and sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton’s foundation.
+At the time, Hillary Clinton was serving as secretary of State on the government panel that approved the deal, the lawyer said.
+It has been previously reported that Bill Clinton accepted $500,000 in Russian speaking fees in 2010 and collected millions more in donations for his foundation from parties with a stake in the Uranium One deal, transactions that both the Clintons and the Obama administration denied had any influence on the approval.
+In the midst of the new discoveries revealed yesterday about the Uranium One case (see: FBI Uncovered Russian Bribery Plot Before Obama Approved Uranium One Deal, Netting Clintons Millions), “Confidential Source 1” has once again hired an attorney, Victoria Toensing, a former Reagan Justice Department official and former chief counsel of the Senate Intelligence Committee, to get his story out.
+Sitting down with The Hill earlier, Toensing said that the last time her client tried to speak out “both his reputation and liberty” were “threatened” by the Obama administration in a effort to force his silence.
+“All of the information about this corruption has not come out,” she said in an interview Tuesday.
+“And so my client, the same part of my client that made him go into the FBI in the first place, says, ‘This is wrong.
+What should I do about it?’”
+Toensing said she also possesses memos that recount how the Justice Department last year threatened her client when he attempted to file a lawsuit that could have drawn attention to the Russian corruption during the 2016 presidential race as well as helped him recover some of the money Russians stole from him through kickbacks during the FBI probe.
+The undercover client witnessed “a lot of bribery going on around the U.S.” but was asked by the FBI to sign a nondisclosure agreement (NDA) that prevents him from revealing what he knows to Congress, Toensing explained.
+When he tried to bring some of the allegations to light in the lawsuit last year, “the Obama Justice Department threatened him with loss of freedom.
+They said they would bring a criminal case against him for violating an NDA,” she added.
+Emails obtained by The Hill show that a civil attorney working with the former undercover witness described the pressure the Justice Department exerted to keep the client from disclosing to a federal court what he knew last summer.
+“The government was taking a very harsh position that threatened both your reputation and liberty,” the civil lawyer wrote in one email.
+In another, she added, “As you will recall the gov’t made serious threats sufficient to cause you to withdraw your civil complaint.”
+As we pointed out last summer when Peter Schweizer first released his feature documentary Clinton Cash, the Uranium One deal at the center of this scandal is believed to have netted the Clintons and their Clinton Foundation millions of dollars in donations and ‘speaking fees’ from Uranium One shareholders and other Russian entities.
+Russian Purchase of US Uranium Assets in Return for $145mm in Contributions to the Clinton Foundation – Bill and Hillary Clinton assisted a Canadian financier, Frank Giustra, and his company, Uranium One, in the acquisition of uranium mining concessions in Kazakhstan and the United States.
+Subsequently, the Russian government sought to purchase Uranium One but required approval from the Obama administration given the strategic importance of the uranium assets.
+In the run-up to the approval of the deal by the State Department, nine shareholders of Uranium One just happened to make $145mm in donations to the Clinton Foundation.
+Moreover, the New Yorker confirmed that Bill Clinton received $500,000 in speaking fees from a Russian investment bank, with ties to the Kremlin, around the same time.
+Needless to say, the State Department approved the deal giving Russia ownership of 20% of U.S. uranium assets.
+Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…
+
+
+
+Response:
+Loaded_Language: This report was originally published by Tyler Durden at Zero Hedge,
+Loaded_Language: While the mainstream media has largely ignored it, the scandal surrounding Russian efforts to acquire 20% of America’s uranium reserves, a deal which was ultimately approved by the Obama administration, and more specifically the Committee on Foreign Investment in the United States (CFIUS) which included Hillary Clinton and Eric Holder, is becoming more problematic for Democrats by the hour,
+Loaded_Language: As The Hill pointed out earlier this morning, the latest development in this sordid tale revolves around a man that the FBI used as an informant back in 2009 and beyond to build a case against a Russian perpetrator who ultimately admitted to bribery, extortion and money laundering,
+Loaded_Language: The informant, who is so far only known as “Confidential Source 1,” says that when he attempted to come forward last year with information that linked the Clinton Foundation directly to the scandal he was promptly silenced by the FBI and the Obama administration,
+Loaded_Language: Working as a confidential witness, the businessman made kickback payments to the Russians with the approval of his FBI handlers and gathered other evidence, the records show,
+Loaded_Language: Sources told The Hill the informant’s work was crucial to the government’s ability to crack a multimillion dollar racketeering scheme by Russian nuclear officials on U.S. soil that involved bribery, kickbacks, money laundering and extortion,
+Loaded_Language: In the end, the main Russian executive sent to the U.S. to expand Russian President Vladimir Putin’s nuclear business, an executive of an American trucking firm and a Russian financier from New Jersey pled guilty to various crimes in a case that started in 2009 and ended in late 2015,
+Loaded_Language: Toensing added her client has had contact from multiple congressional committees seeking information about what he witnessed inside the Russian nuclear industry and has been unable to provide that information because of the NDA,
+Loaded_Language: “He can’t disclose anything that he came upon in the course of his work,” she said,
+Loaded_Language: The information the client possesses includes specific allegations that Russian executives made to him about how they facilitated the Obama administration’s 2010 approval of the Uranium One deal and sent millions of dollars in Russian nuclear funds to the U.S. to an entity assisting Bill Clinton’s foundation,
+Loaded_Language: At the time, Hillary Clinton was serving as secretary of State on the government panel that approved the deal, the lawyer said,
+Loaded_Language: It has been previously reported that Bill Clinton accepted $500,000 in Russian speaking fees in 2010 and collected millions more in donations for his foundation from parties with a stake in the Uranium One deal, transactions that both the Clintons and the Obama administration denied had any influence on the approval,
+Loaded_Language: In the midst of the new discoveries revealed yesterday about the Uranium One case (see: FBI Uncovered Russian Bribery Plot Before Obama Approved Uranium One Deal, Netting Clintons Millions), “Confidential Source 1” has once again hired an attorney, Victoria Toensing, a former Reagan Justice Department official and former chief counsel of the Senate Intelligence Committee, to get his story out,
+Loaded_Language: Sitting down with The Hill earlier, Toensing said that the last time her client tried to speak out “both his reputation and liberty” were “threatened” by the Obama administration in a effort to force his silence,
+Loaded_Language: “All of the information about this corruption has not come out,” she said in an interview Tuesday,
+Loaded_Language: “And so my client, the same part of my client that made him go into the FBI in the first place, says, ‘This is wrong,
+Loaded_Language: What should I do about it?’”
+Loaded_Language: Toensing said she also possesses memos that recount how the Justice Department last year threatened her client when he attempted to file a lawsuit that could have drawn attention to the Russian corruption during the 2016 presidential race as well as helped him recover some of the money Russians stole from him through kickbacks during the FBI probe,
+Loaded_Language: The undercover client witnessed “a lot of bribery going on around the U.S.” but was asked by the FBI to sign a nondisclosure agreement (NDA) that prevents him from revealing what he knows to Congress, Toensing explained,
+Loaded_Language: When he tried to bring some of the allegations to light in the lawsuit last year, “the Obama Justice Department threatened him with loss of freedom,
+Loaded_Language: They said they would bring a criminal case against him for violating an NDA,” she added,
+Loaded_Language: Emails obtained by The Hill show that a civil attorney working with the former undercover witness described the pressure the Justice Department exerted to keep the client from disclosing to a federal court what he knew last summer,
+Loaded_Language: “The government was taking a very harsh position that threatened both your reputation and liberty,” the civil lawyer wrote in one email,
+Loaded_Language: In another, she added, “As you will recall the gov’t made serious threats sufficient to cause you to withdraw your civil complaint,”
+Loaded_Language: As we pointed out last summer when Peter Schweizer first released his feature documentary Clinton Cash, the Uranium One deal at the center of this scandal is believed to have netted the Clintons and their Clinton Foundation millions of dollars in donations and ‘speaking fees’ from Uranium One shareholders and other Russian entities,
+Loaded_Language: Russian Purchase of US Uranium Assets in Return for $145mm in Contributions to the Clinton Foundation – Bill and Hillary Clinton assisted a Canadian financier, Frank Giustra, and his company, Uranium One, in the acquisition of uranium mining concessions in Kazakhstan and the United States,
+Loaded_Language: Subsequently, the Russian government sought to purchase Uranium One but required approval from the Obama administration given the strategic importance of the uranium assets,
+Loaded_Language: In the run-up to the approval of the deal by the State Department, nine shareholders of Uranium One just happened to make $145mm in donations to the Clinton Foundation,
+Loaded_Language: Moreover, the New Yorker confirmed that Bill Clinton received $500,000 in speaking fees from a Russian investment bank, with ties to the Kremlin, around the same time,
+Loaded_Language: Needless to say, the State Department approved the deal giving Russia ownership of 20% of U.S. uranium assets,
+Loaded_Language: Meanwhile, the ‘journalists’ over at CNN are still trying to get to the bottom of exactly who spent the $100,000 on Facebook ads…

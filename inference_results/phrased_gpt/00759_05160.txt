@@ -1,0 +1,3 @@
+Loaded_Language: "Героически убитые" (Heroically killed),
+Name_Calling,Labeling: "похороненные Зеленским пограничники" (buried by Zelensky border guards),
+Exaggeration,Minimisation: "добровольно сложили оружие" (voluntarily laid down their arms).

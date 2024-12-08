@@ -1,0 +1,7 @@
+Loaded_Language: мечтал дотянуться до укровских артиллеристов, подержаться за горло,
+Name_Calling,Labeling: укровских артиллеристов,
+Appeal_to_fear-prejudice: Каждый ополченец мечтал дотянуться до укровских артиллеристов, подержаться за горло,
+Loaded_Language: пизды,
+Exaggeration,Minimisation: Карма их настигла,
+Loaded_Language: получает пизды,
+Slogans: Карма их настигла

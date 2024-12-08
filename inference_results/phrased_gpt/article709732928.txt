@@ -1,0 +1,13 @@
+Loaded_Language: "Uranium One Bombshell: Evidence of Bribery, Extortion, Kickbacks, Money Laundering, and More!", "this ugly Clinton led deal", "very nervous", "very annoying", "this is all about to get very ugly", "the bad actor, hostile regime, Putin Russia", "national security compromise", "you guys deserve a Pulitzer",
+Name_Calling,Labeling: "Clinton camp", "Clinton team", "the Clintons themselves", "bad actor, hostile regime, Putin Russia",
+Repetition: "evidence of bribery, kickback, extortion, money laundering, racketeering", "follow the money",
+Exaggeration,Minimisation: "the knowledge of key administration officials will be the next thing proven", "this is all about to get very ugly",
+Appeal_to_fear-prejudice: "giving the Russians control of the uranium was a national security compromise",
+Causal_Oversimplification: "If you go back on the last week we heard several things from the Justice Department, there’s no connection to uranium one",
+Doubt: "How good are my instincts?", "Is he ready to be the Mayor?", "we don’t have those records",
+Red herring: "What about the victims of crime?", "we need to see those Presidential daily briefings",
+Bandwagon: "the American people deserve the truth",
+Obfuscation,Intentional_Vagueness,Confusion: "What did they know, when did they know it?", "it is what it is",
+Straw man: "You must be a Republican or Democrat" 
+
+Please note that some techniques may overlap or be interpreted in different ways, and not every phrase may apply perfectly to a single technique.

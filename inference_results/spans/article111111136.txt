@@ -1,0 +1,7 @@
+Exaggeration,Minimisation	612	631
+Exaggeration,Minimisation	280	305
+Loaded_Language	2364	2375
+Exaggeration,Minimisation	629	630
+Name_Calling,Labeling	2202	2213
+Appeal_to_fear-prejudice	717	835
+Loaded_Language	172	213

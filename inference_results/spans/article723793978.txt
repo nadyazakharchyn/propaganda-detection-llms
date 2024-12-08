@@ -1,0 +1,14 @@
+Repetition	836	849
+Loaded_Language	883	903
+Loaded_Language	2008	2044
+Slogans	2018	2030
+Causal_Oversimplification	1520	1637
+Name_Calling,Labeling	1716	1725
+Repetition	672	692
+Loaded_Language	2064	2075
+Loaded_Language	669	670
+Exaggeration,Minimisation	1072	1121
+Straw_Men	845	849
+Loaded_Language	1520	1637
+Doubt	1638	1686
+Black-and-White_Fallacy	1404	1519

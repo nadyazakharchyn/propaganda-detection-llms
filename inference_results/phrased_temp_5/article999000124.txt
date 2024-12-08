@@ -1,0 +1,6 @@
+Name_Calling,Labeling: gay black man,
+Exaggeration,Minimisation: no one wants to be gay and black,
+Name_Calling,Labeling: generation older than all of you,
+Loaded_Language: uncomfortable territory,
+Loaded_Language: disrespectful,
+Loaded_Language: uncomfortable jokes

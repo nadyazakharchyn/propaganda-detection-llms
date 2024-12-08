@@ -1,0 +1,7 @@
+Loaded_Language: "poisonous lies", "evil doings of Israel", "Leftist", "anti-Semitic", "hateful sad man"
+Name_Calling,Labeling: "Pro-Sharia Democrat Congressional Candidate", "Leftist"
+Repetition: "Should military force be used to stop the caravan of migrants marching toward the U.S. border?" (repeated three times)
+Appeal_to_fear-prejudice: "the Left is increasingly anti-Semitic, so she will cruise to victory."
+Causal_Oversimplification: "Drawing attention to the apartheid Israeli regime is far from hating Jews." (implying a single cause for the accusation of anti-Semitism)
+Doubt: "These accusations are without merit."
+Red herring: "This and other rocket launches from Palestinian militants in Gaza prompted Israel to initiate Operation Pillar of Defense." (diverting from the discussion on Omar's tweet)

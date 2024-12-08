@@ -1,0 +1,316 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ Hillary Cracks Racist Joke After Mixing Up Cory Booker & Eric Holder: "They All Look The Same"
+
+So, you were actually asking yourself who the real people are who engage in identity politics and viewing people with different skin colors or ethnic backgrounds as inferior people?
+Well, this didn't come from President Donald Trump.
+Nope, Former Secretary of State Hillary Clinton mixed up Senator Cory Booker and former Attorney General Eric Holder and blew it off with a joke saying, "They all look the same."
+Hillary Clinton sat down with Recode’s Kara Swisher over the weekend to talk propaganda against her conservative political opponents and how mean, nasty and evil they have been in the past few months.
+“What’s often called political correctness is politeness,” Clinton said.
+“It’s not being rude and insulting to people.
+It’s respecting the diversity that we have in our society."
+take our poll - story continues below
+Should military force be used to stop the caravan of migrants marching toward the U.S. border?
+Should military force be used to stop the caravan of migrants marching toward the U.S. border?
+Should military force be used to stop the caravan of migrants marching toward the U.S. border?
+* Yes, military force should be used.
+No, keep the military out of it.
+Email *
+Email This field is for validation purposes and should be left unchanged.
+Completing this poll grants you access to Freedom Outpost updates free of charge.
+You may opt out at anytime.
+You also agree to this site's Privacy Policy and Terms of Use.
+“The Democratic Party is a much more diverse political party, attracting people who are African-American, Latino, LGBT, whatever the reason why people feel more comfortable where they are taken in, where they are included as part of a political movement or party” she added.
+“And I don’t think it’s politically correct to say we value that," she concluded.
+"And I don’t want to go around insulting people.
+I don’t want to paint with a broad brush every immigrant is this, every African-American is that, every, you know, other person with different religious beliefs or whatever – that’s childish.”
+Right, except she does just that and so do many in her party.
+However, in less than a minute she would insult both Booker and Holder, and every person with dark skin on the planet.
+Swisher asked her, "What do you think of Cory Booker… saying ‘kick them in the shins,’ essentially?"
+Of course, Swisher meant Eric Holder and Clinton corrected her, adding, “Yeah, I know they all look alike."
+What was even more amazing is that the audience laughed hysterically.
+Can you imagine if a conservative person uttered those comments?
+There would be a near lynching of them on the spot and surely for days to come.
+They might lose their livelihood and get death threats, but not "Crooked" Hillary.
+Clearly, she was speaking of all black people and not being specific to Holder or Booker as they look nothing alike.
+The only thing the two of them have in common is that they are criminals and have black skin.
+Clinton's comments were clearly racist, and those fawning over her during the interview laughed it up right along with her.
+Here, take a look!
+Disgusting that she continues to move and speak freely in this country with no justice being brought to bear on her for her many crimes, something we were promised from then-candidate Trump.
+
+
+
+Response:
+Loaded_Language: Hillary Cracks Racist Joke After Mixing Up Cory Booker & Eric Holder: "They All Look The Same",
+Loaded_Language: “They all look the same”,
+Loaded_Language: “They all look alike”,
+Loaded_Language: “Crooked” Hillary,
+Name_Calling,Labeling: “Crooked” Hillary,
+Appeal_to_Authority: “They might lose their livelihood and get death threats, but not “Crooked” Hillary,
+Exaggeration,Minimisation: “They might lose their livelihood and get death threats, but not “Crooked” Hillary,
+Thought-terminating_Cliches: “Clearly, she was speaking of all black people and not being specific to Holder or Booker as they look nothing alike,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,
+Repetition: “They all look alike”,

@@ -1,0 +1,1 @@
+<a href="https://t.me/MediaKiller2021/1932" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">Коллеги вы же понимаете</a>, что без разрешение из Кремля - этот борт бы не вылетел, а упал бы "случайно". Номер то - "07".

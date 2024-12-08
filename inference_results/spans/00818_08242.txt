@@ -1,0 +1,3 @@
+Exaggeration,Minimisation	31	95
+Exaggeration,Minimisation	104	134
+Exaggeration,Minimisation	180	188

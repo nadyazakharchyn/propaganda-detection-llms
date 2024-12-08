@@ -1,0 +1,100 @@
+Instruction:
+You are a Text Classifier indetifying 18 Propaganda Techniques within News Articles and Posts. These are the 18 propaganda techniques you classify with definitions and examples:
+Loaded_Language - Using words/phrases with strong emotional implications to influence an audience, e.g. 'a lone lawmaker’s childish shouting.'
+Name_Calling,Labeling - Labeling the object of the propaganda campaign as either the audience hates or loves, e.g. 'Bush the Lesser.'
+Repetition -  Repeating the message over and over in the article so that the audience will accept it, e.g. 'Our great leader is the epitome of wisdom. Their decisions are always wise and just.'
+Exaggeration,Minimisation - Either representing something in an excessive manner or making something seem less important than it actually is, e.g. 'I was not fighting with her; we were just playing.'
+Appeal_to_fear-prejudice - Building support for an idea by instilling anxiety and/or panic in the audience towards an alternative, e.g. 'stop those refugees; they are terrorists.'
+Flag-Waving; Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea, e.g. 'entering this war will make us have a better future in our country.'
+Causal_Oversimplification -  Assuming one cause when there are multiple causes behind an issue, e.g. 'If France had not declared war on Germany, World War II would have never happened.'
+Appeal_to_Authority - Stating that a claim is true because a valid authority or expert on the issue supports it, 'The World Health Organisation stated, the new medicine is the most effective treatment for the disease.'
+Slogans - A brief and striking phrase that contains labeling and stereotyping, e.g.  “Make America great again!”
+Thought-terminating_Cliches -  Words or phrases that discourage critical thought and useful discussion about a given topic, e.g. “it is what it is”
+Whataboutism - Discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument, e.g. 'They want to preserve the FBI’s reputation.'
+Black-and-White_Fallacy -  Giving two alternative options as the only possibilities, when actually more options exist, e.g. 'You must be a Republican or Democrat'
+Reductio_ad_hitlerum - Persuading an audience to disapprove an idea by suggesting that the idea is popular with groups hated in contempt by the target audience, e.g. “Only one kind of person can think this way: a communist.”
+Doubt - Questioning the credibility of someone or something, e.g. 'Is he ready to be the Mayor?'
+Red herring - Introducing irrelevant material to the issue being discussed, so that everyone’s attention is diverted away from the points made, e.g. “You may claim that the death penalty is an ineffective deterrent against crime – but what about the victims of crime?"
+Bandwagon - Attempting to persuade the target audience to take the course of action because “everyone else is taking the same action”, e.g. “Would you vote for Clinton as president? 57% say yes.”
+Obfuscation,Intentional_Vagueness,Confusion	 - Using deliberately unclear words, so that the audience may have its own interpretation, e.g. “It is a good idea to listen to victims of theft. Therefore, if the victims say to have the thief shot, then you should do it.”
+Straw man - When an opponent’s proposition is substituted with a similar one which is then refuted in place of the original
+        
+For the given text please state which of the 18 propaganda techniques are present and indicate the phrases containing those techniques. If no propaganda technique was identified return "no propaganda detected". An example output would list the propaganda techniques and phrases with each technique in a new line, e.g.:
+Loaded_Language: Corresponding phrase from the text,
+Thought-terminating_Cliches: Corresponding phrase from the text,
+Repetition: Corresponding phrase from the text
+
+Here is the text:
+ Homeschooling Protects Children from Violence and Marxism
+
+The February mass shooting at a high school in Parkland, Florida prompted many parents to consider homeschooling.
+This is hardly surprising, as the misnamed federal “Gun-Free Schools” law leaves schoolchildren defenseless against mass shooters.
+Removing one’s children from government schools seems a rational response to school shootings.
+School shootings are not the only form of violence causing more parents to consider homeschooling.
+Many potential homeschooling parents are concerned about the failure of school administrators to effectively protect children from bullying by other students.
+Of course, many parents choose homeschooling as a means of protecting their children from federal education “reforms” such as Common Core.
+Other parents are motivated by a desire to protect their children from the cultural Marxism that has infiltrated many schools.
+take our poll - story continues below
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+Whom do you consider to be the most corrupt Democrat Politician?
+* Dianne Feinstein Maxine Waters Adam Schiff Chuck Schumer Kamala Harris Kirsten Gillibrand Keith Ellison Cory Booker
+Email *
+Phone This field is for validation purposes and should be left unchanged.
+Completing this poll grants you access to Freedom Outpost updates free of charge.
+You may opt out at anytime.
+You also agree to this site's Privacy Policy and Terms of Use.
+The spread of cultural Marxism has contributed to the dumbing down of public education.
+Too many government schools are more concerned with promoting political correctness than ensuring that students receive a good education.
+Even if cultural Marxism did not dumb down education, concerns that government schools are indoctrinating children with beliefs that conflict with parents’ political, social, and even religious beliefs would motivate many families to homeschool.
+Even when government schools are not intentionally promoting cultural Marxism or other left-wing ideologies, they are still implicitly biased toward big government.
+For example, how many government schools teach the Austrian economics explanation for the Great Depression — much less question the wisdom of central banking — or critically examine the justifications for America’s hyper-interventionist foreign policy?
+Parents interested in providing their children with a quality education emphasizing the ideas of liberty should consider looking into my homeschooling curriculum.
+The Ron Paul Curriculum provides students with a well-rounded education that includes rigorous programs in history, mathematics, and the physical and natural sciences.
+The curriculum also provides instruction in personal finance.
+Students can develop superior oral and verbal communication skills via intensive writing and public speaking courses.
+Another feature of my curriculum is that it provides students the opportunity to create and run their own internet businesses.
+The government and history sections of the curriculum emphasize Austrian economics, libertarian political theory, and the history of liberty.
+However, unlike government schools, my curriculum never puts ideological indoctrination ahead of education.
+While government schools — and even many private schools — pretend religion played no significant role in history, my curriculum addresses the crucial role religion played in the development of Western civilization.
+However, the materials are drafted in such a way that any Christian, Jewish, Muslim, or atheist parent can feel comfortable using the curriculum.
+Interactive forums allow students to engage with and learn from each other.
+The forums ensure students are actively engaged in their education as well as give them an opportunity to interact with their peers outside of a formal setting.
+Concern about the safety of students in government-run schools is one reason many parents are considering homeschooling, but it is not the only reason.
+Many parents are motivated by a desire to give their children something better than a curriculum that has been dumbed down by federal initiatives like Common Core.
+Other parents do not wish to have their children indoctrinated with views that contradict the parents’ political, social, or even religious beliefs.
+I encourage all parents looking at alternatives to government schools —alternatives that provide children with a well-rounded education that introduces them to the history and ideas of liberty — to go to RonPaulCurriculum.com for more information about my homeschooling program.
+Article posted with permission from Ron Paul
+
+
+
+Response:
+Loaded_Language: Homeschooling Protects Children from Violence and Marxism,
+Loaded_Language: The February mass shooting at a high school in Parkland, Florida prompted many parents to consider homeschooling,
+Loaded_Language: This is hardly surprising, as the misnamed federal “Gun-Free Schools” law leaves schoolchildren defenseless against mass shooters,
+Loaded_Language: Removing one’s children from government schools seems a rational response to school shootings,
+Loaded_Language: School shootings are not the only form of violence causing more parents to consider homeschooling,
+Loaded_Language: Many potential homeschooling parents are concerned about the failure of school administrators to effectively protect children from bullying by other students,
+Loaded_Language: Of course, many parents choose homeschooling as a means of protecting their children from federal education “reforms” such as Common Core,
+Loaded_Language: Other parents are motivated by a desire to protect their children from the cultural Marxism that has infiltrated many schools,
+Loaded_Language: The spread of cultural Marxism has contributed to the dumbing down of public education,
+Loaded_Language: Too many government schools are more concerned with promoting political correctness than ensuring that students receive a good education,
+Loaded_Language: Even if cultural Marxism did not dumb down education, concerns that government schools are indoctrinating children with beliefs that conflict with parents’ political, social, and even religious beliefs would motivate many families to homeschool,
+Loaded_Language: Even when government schools are not intentionally promoting cultural Marxism or other left-wing ideologies, they are still implicitly biased toward big government,
+Loaded_Language: For example, how many government schools teach the Austrian economics explanation for the Great Depression — much less question the wisdom of central banking — or critically examine the justifications for America’s hyper-interventionist foreign policy?,
+Loaded_Language: Parents interested in providing their children with a quality education emphasizing the ideas of liberty should consider looking into my homeschooling curriculum,
+Loaded_Language: The Ron Paul Curriculum provides students with a well-rounded education that includes rigorous programs in history, mathematics, and the physical and natural sciences,
+Loaded_Language: The curriculum also provides instruction in personal finance,
+Loaded_Language: Students can develop superior oral and verbal communication skills via intensive writing and public speaking courses,
+Loaded_Language: Another feature of my curriculum is that it provides students the opportunity to create and run their own internet businesses,
+Loaded_Language: The government and history sections of the curriculum emphasize Austrian economics, libertarian political theory, and the history of liberty,
+Loaded_Language: However, unlike government schools, my curriculum never puts ideological indoctrination ahead of education,
+Loaded_Language: While government schools — and even many private schools — pretend religion played no significant role in history, my curriculum addresses the crucial role religion played in the development of Western civilization,
+Loaded_Language: However, the materials are drafted in such a way that any Christian, Jewish, Muslim, or atheist parent can feel comfortable using the curriculum,
+Loaded_Language: Interactive forums allow students to engage with and learn from each other,
+Loaded_Language: The forums ensure students are actively engaged in their education as well as give them an opportunity to interact with their peers outside of a formal setting,
+Loaded_Language: Concern about the safety of students in government-run schools is one reason many parents are considering homeschooling, but it is not the only reason,
+Loaded_Language: Many parents are motivated by a desire to give their children something better than a curriculum that has been dumbed down by federal initiatives like Common Core,
+Loaded_Language: Other parents do not wish to have their children indoctrinated with views that contradict the parents’ political, social, or even religious beliefs,
+Loaded_Language: I encourage all parents looking at alternatives to government schools —alternatives that provide children with a well-rounded education that introduces them to the history and ideas of liberty — to go to RonPaulCurriculum.com for more information about my homeschooling program,
+Appeal_to_Authority -

@@ -1,0 +1,10 @@
+Exaggeration,Minimisation	813	847
+Loaded_Language	471	490
+Repetition	959	967
+Loaded_Language	1229	1245
+Loaded_Language	1899	1925
+Flag-Waving	59	114
+Exaggeration,Minimisation	740	777
+Loaded_Language	1097	1109
+Loaded_Language	1670	1691
+Causal_Oversimplification	1868	1901
